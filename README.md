@@ -8,4 +8,6 @@ This repository demonstrates the Git and GitHub contribution workflow.
 - Prepared changes for pull request review.
 ## Branch Conflict Demonstration
 
-This change was made in the feature-conflict-demo branch.
+## Branch Conflict Demonstration
+
+This section demonstrates how merge conflicts can be resolved in Git.
